@@ -1,0 +1,4 @@
+.vscode
+*.pyc
+catboost_info
+catboost_tree
